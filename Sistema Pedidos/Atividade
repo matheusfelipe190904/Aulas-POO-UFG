@@ -1,0 +1,4 @@
+Leitura de Arquivo: Implementar a funcionalidade de leitura do arquivo "produto.csv" e "client.csv". 
+Criação de Objetos: Criar objetos Produto a partir dos dados lidos e adicioná-los a uma lista. Criar objetos Cliente a partir dos dados lidos de clientes, adicionando os clientes em uma lista.
+Tratamento de Exceções: Implementar tratamento de exceções para lidar com arquivos inválidos ou dados incorretos.
+Testes Unitários: Escrever testes unitários utilizando JUnit para garantir a funcionalidade do código.
